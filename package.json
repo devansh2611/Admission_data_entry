@@ -1,0 +1,19 @@
+{
+  "name": "admission_data_entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devansh2611/Admission_data_entry.git"
+  },
+  "author": "Devansh Ved Anupam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devansh2611/Admission_data_entry/issues"
+  },
+  "homepage": "https://github.com/devansh2611/Admission_data_entry#readme"
+}
